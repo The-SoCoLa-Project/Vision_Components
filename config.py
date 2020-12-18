@@ -30,19 +30,10 @@ port_KB=5557
 port_Camera=5558
 
 
-ip_Controller='139.91.185.14'
-
-ip_client_Camera='139.91.185.14'
 
 
-ip_client_UI='139.91.185.14'
-
-ip_client_KB='139.91.185.14'
 
 
-ip_action_recognizer='139.91.185.14'
-
-ip_object_detector='139.91.185.14'
 
 
 
